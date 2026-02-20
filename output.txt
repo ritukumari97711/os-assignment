@@ -4,3 +4,5 @@ Child process writing to file
 Parent process writing to file
 Child process writing to file
 Parent process writing to file
+Child process writing to file
+Parent process writing to file
